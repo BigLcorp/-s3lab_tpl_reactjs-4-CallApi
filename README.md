@@ -1,6 +1,8 @@
 ### `npm i styled-components @emotion/react @emotion/styled @mui/icons-material @mui/material @mui/styled-engine-sc`
+
 npm install react-slick --save
 npm install slick-carousel
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -26,3 +28,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
+testtest
